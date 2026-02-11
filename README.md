@@ -21,7 +21,7 @@ strengths and weaknesses.
 melbourne_temp_forecasting/
 ├── notebooks/        - Jupyter notebooks for each phase
 ├── src/              - Reusable utility functions
-├── data/             - Raw and processed data
+├── Data/             - Raw and processed data
 └── results/          - Saved figures and metrics
 ```
 
